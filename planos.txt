@@ -1,0 +1,7 @@
+Plano;Plano 3 Meses;3;Carlos;Instrutor de desenvolvimento mobile;Desenvolvimento Mobile;
+Desenvolvimento;Desenvolvimento Android;Curso de desenvolvimento Android com Java;150;Java;Mobile;false;
+Negocio;Vivendo de Vendas;Técnicas e comportamentos para você tornar-se um profissional de vendas.;90;6;600;100;
+Design;Edição de Imagens com Photoshop 2021;Curso de edição de imagens utilizando a ultima versão do Photoshop;100;Photoshop;Design Grafico;
+Desenvolvimento;Desenvolvimento Web React;Curso de desenvolvimento Web com ReactJS;100;JavaScript;Web;false;
+Negocio;Gestão Financeira e Estratégia para Empresas de Serviços;Aprenda como definir a estratégia e como fazer gestão financeira para melhorar os resultados de uma empresa de serviços.;204;12;300;10000;
+Design;Jogos 2D;Crie 5 jogos para Android nos estilos de Angry Birds, Metal Slug, Clash of Clans e esportes!;140;Unity;Design de jogos;

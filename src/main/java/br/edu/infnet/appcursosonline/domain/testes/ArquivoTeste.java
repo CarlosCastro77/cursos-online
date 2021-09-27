@@ -46,16 +46,15 @@ public class ArquivoTeste {
                     
                     switch(campos[0]) {
                         case "Plano":
+                            plano.setTitulo(campos[1]);
+                            plano.setDuracaoEmMeses(Integer.valueOf(campos[2]));
                             Instrutor instrutor = new Instrutor(
                                 campos[3],
                                 campos[4],
                                 campos[5]
                             );
-                            
                             plano.setInstrutor(instrutor);
-                            plano.setTitulo(campos[1]);
-                            plano.setDuracaoEmMeses(Integer.valueOf(campos[2]));
-                            
+                            break;
                         case "Desenvolvimento":
                             Desenvolvimento desenvolvimento = new Desenvolvimento(
                                 campos[1],
